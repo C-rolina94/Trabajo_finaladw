@@ -30,6 +30,6 @@ source /scripts/7.Carga-Fact_ventas.sql
 
 source /scripts/8.consulta.sql
 
--- Consulta # 2-1
+-- Consulta # 2
 
 source /scripts/9.Consulta-2.sql
